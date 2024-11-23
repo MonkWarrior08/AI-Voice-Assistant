@@ -19,8 +19,8 @@ This AI Voice Assistant is an interactive conversation partner that uses speech 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd ai-voice-assistant
+git clone https://github.com/MonkWarrior08/AI-Voice-Assistant.git
+cd AI-Voice-Assistant
 ```
 
 2. Install required packages:
@@ -62,16 +62,6 @@ The program includes error handling for:
 - API communication issues
 - Audio playback problems
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 [MIT License](LICENSE)
 
-## Acknowledgments
-- OpenAI for GPT-4 and speech services
-- The SpeechRecognition library team
-- Pygame developers
-
-## Support
-For support, please open an issue in the repository or contact [your-contact-info].
