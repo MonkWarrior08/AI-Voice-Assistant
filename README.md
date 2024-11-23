@@ -62,6 +62,4 @@ The program includes error handling for:
 - API communication issues
 - Audio playback problems
 
-## License
-[MIT License](LICENSE)
 
