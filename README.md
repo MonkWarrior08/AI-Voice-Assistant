@@ -1,7 +1,7 @@
 # AI Voice Assistant
 
 ## Description
-This AI Voice Assistant is an interactive conversation partner that uses speech recognition, natural language processing, and text-to-speech capabilities. It allows users to have spoken conversations with an AI, powered by OpenAI's GPT-4 model and speech services.
+This AI Voice Assistant is an interactive conversation partner that uses speech recognition, natural language processing, and text-to-speech capabilities. It allows users to have spoken conversations with an AI, powered by OpenAI's GPT-4o model and speech services.
 
 ## Features
 - Real-time speech recognition
