@@ -5,15 +5,10 @@ This AI Voice Assistant is an interactive conversation partner that uses speech 
 
 ## Features
 - Real-time speech recognition
-- Natural language processing using OpenAI's GPT-4
+- Natural language processing using OpenAI's GPT-4o
 - Text-to-speech conversion with multiple voice options
 - Interactive conversation flow
 - High-quality audio playback
-
-## Prerequisites
-- Python 3.7+
-- OpenAI API key
-- Internet connection
 
 ## Installation
 
