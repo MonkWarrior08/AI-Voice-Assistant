@@ -14,8 +14,8 @@ This AI Voice Assistant is an interactive conversation partner that uses speech 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MonkWarrior08/AI-Voice-Assistant.git
-cd AI-Voice-Assistant
+git clone https://github.com/MonkWarrior08/AI_Voice_Assistant.git
+cd AI_Voice_Assistant
 ```
 
 2. Install dependencies using the requirements file:
