@@ -23,14 +23,9 @@ git clone https://github.com/MonkWarrior08/AI-Voice-Assistant.git
 cd AI-Voice-Assistant
 ```
 
-2. Install required packages:
-```bash
-pip install openai
-pip install SpeechRecognition
-pip install pygame
-pip install pyttsx3
-pip install python-dotenv
-pip install requests
+2. Install dependencies using the requirements file:
+```
+pip install -r requirements.txt
 ```
 
 3. Create a `.env` file in the project root and add your OpenAI API key:
